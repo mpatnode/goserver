@@ -1,0 +1,12 @@
+github.com/braintree-go/braintree-go v0.22.0 h1:tSMs8IQ2I38RzOsQ/kn1lnL/XWQ/wCTa/XHdcb8760o=
+github.com/braintree-go/braintree-go v0.22.0/go.mod h1:KZOsgcN57OCLvNAegsEDssgYSsGbdL+msvex1SNmb0E=
+github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
+github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/gorilla/mux v1.7.4 h1:VuZ8uybHlWmqV03+zRzdwKL4tUnIp1MAQtp1mIFE1bc=
+github.com/gorilla/mux v1.7.4/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/mattn/go-sqlite3 v1.13.0 h1:LnJI81JidiW9r7pS/hXe6cFeO5EXNq7KbfvoJLRI69c=
+github.com/mattn/go-sqlite3 v2.0.3+incompatible h1:gXHsfypPkaMZrKbD5209QV9jbUTJKjyR5WD3HYQSd+U=
+github.com/mattn/go-sqlite3 v2.0.3+incompatible/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
+github.com/stripe/stripe-go v1.0.3 h1:RHgK2FUKawVNBPJ15pNM4IWkEVVCg5Ju3xK5QZNhTwY=
+github.com/stripe/stripe-go v70.13.0+incompatible h1:XAtwKlYq89PBjj9cpRs4PWiD26NwKiant6kRq/8b1B8=
+github.com/stripe/stripe-go v70.13.0+incompatible/go.mod h1:A1dQZmO/QypXmsL0T8axYZkSN/uA/T/A64pfKdBAMiY=
